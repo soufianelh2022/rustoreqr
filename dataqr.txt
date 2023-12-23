@@ -1,0 +1,23 @@
+{"ads":{
+
+    "ShowAds":true,
+    "ShowLoadingAds":true,
+    "ClickCount":1,
+    "PriorityBanner":"yandex",
+    "priorityInterstitial":"yandex",
+    "PriorityNative":"yandex",
+    "PriorityReward":"yandex",
+
+ "yandex_banner":"demo-banner-yandex",
+"yandex_inter":"demo-interstitial-yandex",
+"yandex_native":"demo-native-content-yandex",
+"yandex_reward":"demo-rewarded-yandex",
+    "yandex_open":"demo-appopenad-yandex",
+  
+    "AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
+    "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
+    "AdmobNative":"ca-app-pub-3940256099942544/2247696110",
+    "admob_reward":"ca-app-pub-3940256099942544/5224354917"
+ 
+  }
+}
