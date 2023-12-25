@@ -8,10 +8,10 @@
     "PriorityNative":"yandex",
     "PriorityReward":"yandex",
 
- "yandex_banner":"demo-banner-yandex",
-"yandex_inter":"demo-interstitial-yandex",
-"yandex_native":"demo-native-content-yandex",
-"yandex_reward":"demo-rewarded-yandex",
+ "yandex_banner":"R-M-4684106-1",
+"yandex_inter":"R-M-4684106-3",
+"yandex_native":"R-M-4684106-2",
+"yandex_reward":"R-M-4684106-4",
     "yandex_open":"demo-appopenad-yandex",
   
     "AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
