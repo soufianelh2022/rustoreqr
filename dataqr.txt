@@ -12,7 +12,7 @@
 "yandex_inter":"R-M-4684106-3",
 "yandex_native":"R-M-4684106-2",
 "yandex_reward":"R-M-4684106-4",
-    "yandex_open":"demo-appopenad-yandex",
+    "yandex_open":R-M-4684106-5",
   
     "AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
     "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
